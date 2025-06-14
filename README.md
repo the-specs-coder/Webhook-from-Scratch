@@ -14,4 +14,4 @@
 - use node stripeServer.js to run the stripeServer.
 - use node client.js to run the client machine.
 
-- DB used MongoDB, use MongoDB ATLAS with the "Connection String URL" to create documents in the DB.
+- DB used MongoDB, use MongoDB Compass desktop application or online service with the "Connection String URL"(which is the DATABASE_URL) to create documents in the DB.
